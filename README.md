@@ -157,6 +157,30 @@ jmeter -g report\performance_t3000.jtl -o report\performance_t3000.html
 
 # ScreenShot
 ```
-Booking
+Total Test Plan
 ```
 ![image alt](https://github.com/ahsanhabib082/Performance-Testing/blob/b5d2676ef7de02ad1cfbc358c54c1c6824ae2ec9/Screenshot/05.png)
+
+```
+Create Booking sample
+```
+![image alt](https://github.com/ahsanhabib082/Performance-Testing/blob/main/Screenshot/06.png?raw=true)
+
+```
+Summary Report
+```
+![image alt](https://github.com/ahsanhabib082/Performance-Testing/blob/main/Screenshot/01.png?raw=true)
+![image alt](https://github.com/ahsanhabib082/Performance-Testing/blob/main/Screenshot/02.png?raw=true)
+
+```
+Total Transaction Per Second
+```
+![image alt](https://github.com/ahsanhabib082/Performance-Testing/blob/main/Screenshot/03.png?raw=true)
+
+```
+Response Time Percentiles
+```
+![image alt](https://github.com/ahsanhabib082/Performance-Testing/blob/main/Screenshot/04.png?raw=true)
+
+
+
