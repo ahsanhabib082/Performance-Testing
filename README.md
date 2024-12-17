@@ -154,3 +154,8 @@ Report Generate command
 jmeter -g report\performance_t3000.jtl -o report\performance_t3000.html
 
 ```
+
+# ScreenShot
+```
+Booking
+```
